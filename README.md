@@ -1,5 +1,5 @@
 # Comso-Strike
-A Shoot 'em up Game made with GameMaker Studio for my Game Design Class 
+Shoot 'em up Game made with GameMaker Studio for my Game Design Class 
 
 ## Team Tabletop
 Matt Gottlieb, Sean Hayes, Jason Lam, Emmett Head

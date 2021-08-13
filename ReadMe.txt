@@ -1,0 +1,23 @@
+Team Tabletop
+Matt Gottlieb, Sean Hayes, Jason Lam, Emmett Head
+
+Cosmo-Strike
+Instructions:
+	There are 3 stages with bosses in each one.
+	Defeat the boss to proceed to the next level.
+	Powerups will be rewarded after some stages.
+	Beat the 3rd stage to win the game.
+	Score will be based on how many bosses defeated and damage taken.
+
+Controls:
+	LeftArrow - left
+	RightArrow - right
+	UpArrow - up
+	DownArrow - down
+	Spacebar - shoot
+
+Cheat Code:
+	Alt + R - Room Restart
+	Alt + G - Game Restart
+	Alt + l - Extra Lives
+	Alt + M - Extra Damage
